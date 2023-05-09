@@ -1,0 +1,18 @@
+.suggestion-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.arrow-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.arrow-button {
+  background-color: transparent;
+  border-width: 0px;
+}
